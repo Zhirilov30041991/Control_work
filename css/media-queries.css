@@ -1,0 +1,36 @@
+/*@media screen and (min-width: 480px) and (max-width: 1200px){*/
+
+/*}*/
+@media only screen and (max-width: 1200px) {
+
+ }
+@media only screen and (max-width: 992px) {
+    .header_logo{
+        text-align: center;
+    }
+    .header_menu{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .header_main{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .about_left{
+    text-align: -webkit-center;
+    margin-bottom: 40px;
+    }
+    .portfolio{
+        text-align: center;
+    }  
+ }
+
+ @media only screen and (max-width: 768px){
+  
+}
+
+ @media only screen and (max-width: 576px){
+
+ }
+
+
