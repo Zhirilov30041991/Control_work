@@ -26,11 +26,31 @@
  }
 
  @media only screen and (max-width: 768px){
-  
+  .testimonials_foto {
+    display: flex;
+    padding: 25px 30px 55px 60px;
 }
-
+.icons_social {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 26px;
+}
+}
  @media only screen and (max-width: 576px){
-
+.header_main h1{
+    font-size: 70px;
+}
+.testimonials_foto{
+    display: inline-block;
+    text-align: center;
+    margin-right: 0;
+}
+.owl-carousel .owl-item img{
+    width: 100%;
  }
+ .arrrow{
+    display: none;
+ }
+}
 
 
